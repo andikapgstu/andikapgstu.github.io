@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My Portfolio</title>
+    <link>https://andikatuluspangestu.github.io/tags/</link>
+    <description>Recent content in Tags on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Sun, 06 Feb 2022 09:53:31 +0700</lastBuildDate>
+    
+	<atom:link href="https://andikatuluspangestu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LearnDOM</title>
+      <link>https://andikatuluspangestu.github.io/tags/learndom/</link>
+      <pubDate>Sun, 06 Feb 2022 09:53:31 +0700</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/tags/learndom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>android</title>
+      <link>https://andikatuluspangestu.github.io/tags/android/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php</title>
+      <link>https://andikatuluspangestu.github.io/tags/php/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://andikatuluspangestu.github.io/tags/php/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
